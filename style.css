@@ -282,7 +282,7 @@ body {
 .services-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
-    gap: 2rem;
+    gap: 2rem 10rem;
 }
 
 .service-card {
